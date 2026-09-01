@@ -1,10 +1,20 @@
-# Olá! Eu sou Alhandra Alves Viégas 👋
+# Olá! Sou Alhandra Alves Viégas 👋
 
-Especialista em Data Science and Analytics pela USP, com interesse em Machine Learning e no desenvolvimento de soluções orientadas por dados.
+Graduada em Biomedicina e especialista em Data Science and Analytics pela USP.
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades nas quais eu possa aplicar meus conhecimentos, desenvolver novas competências e contribuir positivamente com a equipe.
 
 ## 📂 Projetos
 
-Aqui compartilho projetos desenvolvidos para aplicar meus conhecimentos e solucionar problemas em diferentes áreas.
+Neste perfil, compartilho projetos variados, desenvolvidos para aplicar meus conhecimentos e solucionar problemas em diferentes áreas.
+
+## 💻 Principais conhecimentos
+
+- Python
+- Análise de Dados
+- Machine Learning
 
 ## 📫 Contato
 
